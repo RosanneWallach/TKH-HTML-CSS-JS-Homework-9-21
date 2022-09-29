@@ -1,0 +1,15 @@
+/* external method to style elements with css
+a red background
+white text,
+a font size 32pc,
+center aligned
+and bold */
+
+div {
+    background: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+
+}

@@ -1,0 +1,15 @@
+
+/* apply rules to 2 different classes, seperate them with a common */
+.button1, .button2 {
+    font-size: 36px;
+    font-family: Helvetica, 'Times New Roman', sans-serif
+}
+
+.button1 {
+    background: black;
+    color: white;
+}
+
+.button2 {
+    background: yellow;
+}
